@@ -51,6 +51,6 @@ Describe contribution guidelines, code of conduct, and how to submit issues or p
 [![GitHub forks](https://img.shields.io/github/forks/HarshDekate/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/network)
 
 <!-- Footer -->
-### Thank you for exploring Project Name!
+### Thank you for exploring Text to speech converter!
 If you find it useful or have any questions, feel free to reach out or contribute.
 
