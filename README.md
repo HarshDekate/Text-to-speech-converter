@@ -2,8 +2,9 @@
 # Text to speech converter
 
 <!-- Project Description -->
-![Project Logo or Banner](https://github.com/HarshDekate/Text-to-speech-converter/blob/main/Text%20to%20speech%20converter.png)
-A brief and engaging description of your project. Highlight its unique features and benefits.
+A text-to-speech converter web application that transforms written text into spoken words. Simple, user-friendly, and accessible.
+
+
 
 <!-- Table of Contents -->
 ## Table of Contents
