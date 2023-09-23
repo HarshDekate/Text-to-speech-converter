@@ -1,8 +1,8 @@
 
-# Project Name
+# Text to speech converter
 
 <!-- Project Description -->
-![Project Logo or Banner](your-image-url.jpg)
+![Project Logo or Banner](https://github.com/HarshDekate/Text-to-speech-converter/blob/main/Text%20to%20speech%20converter.png)
 A brief and engaging description of your project. Highlight its unique features and benefits.
 
 <!-- Table of Contents -->
@@ -12,7 +12,6 @@ A brief and engaging description of your project. Highlight its unique features 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 <!-- Features -->
 ## Features
@@ -21,7 +20,7 @@ A brief and engaging description of your project. Highlight its unique features 
 
 <!-- Demo -->
 ## Demo
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://harshdekate.github.io/Text-to-speech-converter/)
 
 Include a link to a live demo or showcase of your project.
 Add screenshots or GIFs to demonstrate its functionality.
@@ -31,7 +30,7 @@ Add screenshots or GIFs to demonstrate its functionality.
 Provide clear instructions on how to install and set up your project.
 
 ```bash
-git clone https://github.com/yourusername/your-project.git
+git clone https://github.com/HarshDekate/your-project.git
 cd your-project
 npm install
 ```
@@ -46,16 +45,11 @@ Include code examples, screenshots, or gifs to illustrate usage.
 Encourage others to contribute to your project.
 Describe contribution guidelines, code of conduct, and how to submit issues or pull requests.
 
-<!-- License -->
-## License
-This project is licensed under the [XYZ License](LICENSE).
-Include a link to the full license file for details.
-
 <!-- Badges -->
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/network)
-[![GitHub license](https://img.shields.io/github/license/yourusername/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/HarshDekate/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HarshDekate/your-project.svg?style=flat-square)](https://github.com/yourusername/your-project/network)
 
 <!-- Footer -->
 ### Thank you for exploring Project Name!
 If you find it useful or have any questions, feel free to reach out or contribute.
+
