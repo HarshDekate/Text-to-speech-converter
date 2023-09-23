@@ -1,0 +1,39 @@
+body{
+    background-color: #e8dbeb;
+    color: #141e45;
+}
+h1{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 7% 36% 3%;
+}
+
+#txt{
+    color: #141e45;
+    margin: 0% 27%;
+    width: 600px;
+    height: 350px;
+    border: #141e45;
+    border-width: 6px;
+    border-radius: 4px;
+}
+p{
+    color: #141e45;
+    font-size: x-small;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+.btn{
+        background-color: #ec8e9c; /* Green */
+        border: none;
+        border-radius: 10px;
+        color: #141e45;
+        padding: 15px 32px;
+        margin-top: 1%;
+        margin-left: 43%;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
